@@ -20,8 +20,8 @@
 
 ![App Screenshot](https://i.imgur.com/ye4OONJ.png)
 ![App Screenshot](https://i.imgur.com/JPPqFwV.png)
-![App Screenshot](https://i.imgur.com/JAbz3Aw.png)
-![App Screenshot](https://i.imgur.com/q9PmeXM.png)
+![App Screenshot](https://i.imgur.com/EyFZAwz.png)
+![App Screenshot](https://i.imgur.com/hINf3kh.png)
 
 
 ## FAQ
